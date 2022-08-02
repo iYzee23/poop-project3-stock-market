@@ -1,0 +1,2 @@
+# poop-project3-stock-market
+Cpp consol and object-orriented application that simulates stock-market bet application where user can register, log in and participate in real-time stock exchange. Scope of this project was to connect Cpp project with database using SQLite and SQLite3 library, where users' info were saved and kept private. Scope of this project also included use of curl library and some basics of JSON parser for getting live data from Internet sites, as well as showing trends, candles, MA and EMA in real-time. Project was done under faculty course in the group
